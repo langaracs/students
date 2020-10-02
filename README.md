@@ -25,7 +25,7 @@ All we ask is that you keep things in _alphabetical order by last name_.
 - [Jet Simon](http://jetsimon.com/) - Guy who does stuff and makes things
   - **Socials:** [Twitter](https://twitter.com/SimonJet)
   - **Interests:** Making rock music, making chiptune music, Pixel Art, 3D Modelling, Programming, Game Dev, Cooking 
-  - **Working On:** Figuring out how school works!
+  - **Working On:** Figuring out how school works and learning about git/GitHub!
   - **Looking For:** Collaboration on smaller projects or a simple game. What he said!
   
 - [Brandon MacKenzie](https://git.cryptid.cc/lost) - Computer Science student
